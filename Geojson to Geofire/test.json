@@ -1,0 +1,56 @@
+{
+  "name": "Baumkataster",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.51418799887671,
+          47.378779822607
+        ]
+      },
+      "properties": {
+        "kategorie": "Parkbaum",
+        "quartier": "Hard",
+        "strasse": "Bullingerhof",
+        "baumgattunglat": "Abies",
+        "baumartlat": "nordmanniana",
+        "baumnamelat": "Abies nordmanniana",
+        "baumnamedeu": "Nordmanns-Tanne",
+        "baumnummer": "AU-1741",
+        "status": "Grünanlage",
+        "baumtyp": "0",
+        "baumtyptext": "N",
+        "pflanzjahr": null,
+        "genauigkeit": "Eingemessen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53265178279964,
+          47.3408449159967
+        ]
+      },
+      "properties": {
+        "kategorie": "Parkbaum",
+        "quartier": "Wollishofen",
+        "strasse": "Park auf der Egg",
+        "baumgattunglat": "Acer",
+        "baumartlat": "monspessulanum",
+        "baumnamelat": "Acer monspessulanum",
+        "baumnamedeu": "Französischer Ahorn",
+        "baumnummer": "WO-739",
+        "status": "Grünanlage",
+        "baumtyp": "0",
+        "baumtyptext": "L",
+        "pflanzjahr": "2007",
+        "genauigkeit": "Eingemessen"
+      }
+    }
+  ]
+}
